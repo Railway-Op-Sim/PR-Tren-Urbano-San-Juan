@@ -18,7 +18,6 @@ A representation of the _Tren Urbano_ transit system operating within the Puerto
 
 
 ## Data Sources
-
-- A List of links pointing to various sources
-- For example:
-- [Carto Metro Paris Metro Map](http://carto.metro.free.fr/cartes/metro-paris/)
+- [Wikipedia Entry](https://en.wikipedia.org/wiki/Tren_Urbano)
+- [Map Meurisse](https://map.meurisse.org/)
+- [Railway Age - August Highlights (via Internet Archive) 2006](https://web.archive.org/web/20060314085923/http://www.railwayage.com/aug00/tren_urbano.html)
