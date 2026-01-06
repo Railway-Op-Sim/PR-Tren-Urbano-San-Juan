@@ -1,17 +1,18 @@
 rly_file = "Tren_Urbano_San_Juan_PR.rly"
 ttb_files = [ "Tren_Urbano_San_Juan_PR_Jan_2026.ttb",]
 graphic_files = [ "TU_SJ_PR_Logo.png",]
-minimum_required = "2.4.0"
-img_files = []
+minimum_required = "2.21.0"
+img_files = [
+    "Tren_Urbano_San_Juan_PR.bmp"
+]
 doc_files = [ "README.md",]
 release_date = "2026-01-06"
 version = "1.0.0"
 country_code = "PR"
 factual = true
-description = ""
+description = "Tren Urbano transit system in San Juan, Puerto Rico"
 year = 2026
 display_name = "Tren Urbano San Juan"
 name = "Tren Urbano San Juan"
-signal_position = "left"
-author = "Kristian Zarębski"
-contributors = []
+signal_position = "right"
+author = "Krizar"
