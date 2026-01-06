@@ -1,4 +1,4 @@
-# Railway Operation Simulator Template Map
+# Tren Urbano, San Juan, Puerto Rico
 
 A representation of the _Tren Urbano_ transit system operating within the Puerto Rican capital of San Juan.
 
