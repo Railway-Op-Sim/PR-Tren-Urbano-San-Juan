@@ -1,26 +1,38 @@
-# Project Title
+# Tren Urbano, San Juan, PR
 
-*About the project goes here*
+_Tren Urbano_ is the name given to the rail transit system located in San Juan, Puerto Rico. Currently the network consists of a single line which operates a distance of 11 miles across the city serving 16 stations.
 
-You could include:
-- Some history to the route.
-- What stations are included?
-- The type of services the route has. (Freight/Passenger)
+At the time of this simulation (2026), the line is the only railway operating within Puerto Rico. There are future plans to expand the network further.
 
 ## Simulation
 
-*This section describes the timetable*
+The simulation covers operation of the entire line Sagrado Corazón in the East and Bayamón in the West with rolling stock entering service from the maintenance depot located near to  	Martínez Nadal.
 
-You could include:
-- Where services go to and from.
-- How frequent the services are.
-- Any tips for operating the route.
+All stations are included:
+
+* Sagrado Corazón
+* Hato Rey
+* Roosevelt
+* Domenech
+* Piñero
+* Universidad
+* Río Piedras
+* Cupey
+* Centro Médico
+* San Francisco
+* Las Lomas
+* Martínez Nadal
+* Torrimar
+* Jardines
+* Deportivo
+* Bayamón
+
+As the simulation is fairly straightforward it can be operated at a speed of at least 4x without major difficulty. A session has been included to setup automatic signals between crossovers.
+
+Due to there being little resource available on the specification of the operating Siemens rolling stock, and there being no access to a working timetable this should be considered an approximation, not an accurate representation.
 
 ## Development
 
-*This section is optional though highly recommended*
+If you have access to additional information which could benefit this simulation, or you would like to improve it please feel free to open a merge request on the project repository:
 
-If your route is open to contribution on the ROS GitHub, then it may be a good idea to:
-- Include a link to your project on GitHub.
-- Include any information about what could be built upon in this route.
-- Tell the reader where they can go to get help if they want to contribute.
+https://github.com/Railway-Op-Sim/PR-Tren-Urbano-San-Juan/tree/main.
